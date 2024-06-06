@@ -1,4 +1,4 @@
-# Data Lemur SQL questions
+# Data Lemur
 
 Unverified solutions for [Data Lemur](https://datalemur.com/) Practice Interview Questions.
 
