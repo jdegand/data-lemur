@@ -11,3 +11,4 @@ Unverified solutions for [Data Lemur](https://datalemur.com/) Practice Interview
 - [Stack Overflow](https://stackoverflow.com/questions/24929735/how-to-calculate-date-difference-in-postgresql) - how to calculate date difference in postgresql
 - [Postgresql Tutorial](https://www.postgresqltutorial.com/postgresql-date-functions/postgresql-date_part/) - postgresql date part
 - [Neon Tech](https://neon.tech/docs/introduction) - Neon is a serverless Postgres platform designed to help you build reliable and scalable applications faster.
+- [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-factorialize-a-number-in-javascript-9263c89a4b38/) - how to factorialize a number in javascript
