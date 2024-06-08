@@ -19,3 +19,7 @@ Unverified solutions for [Data Lemur](https://datalemur.com/) Practice Interview
 - [Scribbr](https://www.scribbr.com/statistics/pearson-correlation-coefficient/#:~:text=The%20Pearson%20correlation%20coefficient%20(r,the%20relationship%20between%20two%20variables.&text=When%20one%20variable%20changes%2C%20the,changes%20in%20the%20same%20direction)) - pearson correlation coefficient
 - [Geeks for Geeks](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/) - largest sum contiguous subarray
 - [Wikipedia](https://en.wikipedia.org/wiki/Maximum_subarray_problem) - Maximum subarray problem
+- [Geeks for Geeks](https://www.geeksforgeeks.org/sql-using-clause/) - sql using clause
+- [W3 Schools](https://www.w3schools.com/sql/func_sqlserver_cast.asp) - cast
+- [Data Camp](https://www.datacamp.com/cheat-sheet/sql-window-functions-cheat-sheet) - sql window functions cheat sheet
+- [SQL Shack](https://www.sqlshack.com/sql-server-data-type-conversion-methods-performance-comparison/) - sql server data type conversion methods performance comparison
