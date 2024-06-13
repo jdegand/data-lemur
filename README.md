@@ -23,3 +23,7 @@ Unverified solutions for [Data Lemur](https://datalemur.com/) Practice Interview
 - [W3 Schools](https://www.w3schools.com/sql/func_sqlserver_cast.asp) - cast
 - [Data Camp](https://www.datacamp.com/cheat-sheet/sql-window-functions-cheat-sheet) - sql window functions cheat sheet
 - [SQL Shack](https://www.sqlshack.com/sql-server-data-type-conversion-methods-performance-comparison/) - sql server data type conversion methods performance comparison
+- [High Touch](https://hightouch.com/sql-dictionary/sql-common-table-expression-cte) - sql common table expression cte
+- [Scaler](https://www.scaler.com/topics/partition-by-in-sql/) - partition by in sql
+- [Stack Overflow](https://stackoverflow.com/questions/7747327/sql-rank-versus-row-number) - sql rank versus row number
+- [Medium](https://medium.com/@pradeepchandrareddy95/how-to-calculate-mode-in-sql-how-to-find-most-frequent-value-in-a-column-b3f913fdeb1e) - how to calculate mode in sql how to find most frequent value in a column
