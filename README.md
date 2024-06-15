@@ -7,6 +7,8 @@ Unverified solutions for [Data Lemur](https://datalemur.com/) Practice Interview
 - [Postgresql](https://www.postgresql.org/)
 - [Materialize](https://materialize.com/docs/)
 - [Data.world](https://docs.data.world/en/98581-get-started.html#UUID-cf164651-ff3c-3693-4ab8-05432fda8266)
+- [SQL Format](https://sqlformat.org/)
+- [SQL Formatter](https://www.dpriver.com/pp/sqlformat.htm)
 - [Omni Calculator](https://www.omnicalculator.com/statistics/probability) - probability calculator
 - [Stack Overflow](https://stackoverflow.com/questions/24929735/how-to-calculate-date-difference-in-postgresql) - how to calculate date difference in postgresql
 - [Postgresql Tutorial](https://www.postgresqltutorial.com/postgresql-date-functions/postgresql-date_part/) - postgresql date part
@@ -27,3 +29,7 @@ Unverified solutions for [Data Lemur](https://datalemur.com/) Practice Interview
 - [Scaler](https://www.scaler.com/topics/partition-by-in-sql/) - partition by in sql
 - [Stack Overflow](https://stackoverflow.com/questions/7747327/sql-rank-versus-row-number) - sql rank versus row number
 - [Medium](https://medium.com/@pradeepchandrareddy95/how-to-calculate-mode-in-sql-how-to-find-most-frequent-value-in-a-column-b3f913fdeb1e) - how to calculate mode in sql how to find most frequent value in a column
+- [Stack Overflow](https://stackoverflow.com/questions/39045856/compare-phone-numbers-of-multiple-formats-in-sql-server) - compare phone numbers of multiple formats in sql server
+- [W3 Schools](https://www.w3schools.com/sql/func_sqlserver_left.asp) - func sqlserver left
+- [DB Visualizer](https://www.dbvis.com/thetable/understanding-self-joins-in-sql/) - understanding self joins in sql
+- [Stack Overflow](https://stackoverflow.com/questions/2758415/swap-values-for-two-rows-in-the-same-table-in-sql-server) - swap values for two rows in the same table in sql server
