@@ -7,6 +7,7 @@ Unverified solutions for [Data Lemur](https://datalemur.com/) Practice Interview
 - [Postgresql](https://www.postgresql.org/)
 - [Materialize](https://materialize.com/docs/)
 - [Data.world](https://docs.data.world/en/98581-get-started.html#UUID-cf164651-ff3c-3693-4ab8-05432fda8266)
+- [Use the Index Luke](https://use-the-index-luke.com/)
 - [SQL Format](https://sqlformat.org/)
 - [SQL Formatter](https://www.dpriver.com/pp/sqlformat.htm)
 - [Omni Calculator](https://www.omnicalculator.com/statistics/probability) - probability calculator
@@ -33,3 +34,4 @@ Unverified solutions for [Data Lemur](https://datalemur.com/) Practice Interview
 - [W3 Schools](https://www.w3schools.com/sql/func_sqlserver_left.asp) - func sqlserver left
 - [DB Visualizer](https://www.dbvis.com/thetable/understanding-self-joins-in-sql/) - understanding self joins in sql
 - [Stack Overflow](https://stackoverflow.com/questions/2758415/swap-values-for-two-rows-in-the-same-table-in-sql-server) - swap values for two rows in the same table in sql server
+- [Modern SQL](https://modern-sql.com/feature/extract) - extract
