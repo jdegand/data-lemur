@@ -16,8 +16,8 @@ WHERE time_diff <= 10;
 
 /*
 -- Using MINUTE gives different result than EPOCH
--- need to check more timestamps
 -- MINUTE result will be the number of whole minutes in the time interval, discarding any seconds or fractions of a minute.
+-- The timestamps don't have any seconds - MINUTE is less precise, but I don't get why it should produce a different result here.
 
 WITH cte AS (
     SELECT 
@@ -37,7 +37,6 @@ WHERE time_diff <= 10;
 */
 
 /*
-
 -- alternative way
 
 WITH numbered_transactions AS (
