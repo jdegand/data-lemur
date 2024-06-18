@@ -35,3 +35,4 @@ Unverified solutions for [Data Lemur](https://datalemur.com/) Practice Interview
 - [DB Visualizer](https://www.dbvis.com/thetable/understanding-self-joins-in-sql/) - understanding self joins in sql
 - [Stack Overflow](https://stackoverflow.com/questions/2758415/swap-values-for-two-rows-in-the-same-table-in-sql-server) - swap values for two rows in the same table in sql server
 - [Modern SQL](https://modern-sql.com/feature/extract) - extract
+- [Stack Overflow](https://stackoverflow.com/questions/1964544/timestamp-difference-in-hours-for-postgresql) - timestamp difference in hours for postgresql
