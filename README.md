@@ -36,3 +36,10 @@ Unverified solutions for [Data Lemur](https://datalemur.com/) Practice Interview
 - [Stack Overflow](https://stackoverflow.com/questions/2758415/swap-values-for-two-rows-in-the-same-table-in-sql-server) - swap values for two rows in the same table in sql server
 - [Modern SQL](https://modern-sql.com/feature/extract) - extract
 - [Stack Overflow](https://stackoverflow.com/questions/1964544/timestamp-difference-in-hours-for-postgresql) - timestamp difference in hours for postgresql
+- [Stack Overflow](https://stackoverflow.com/questions/76519948/sql-query-to-maximize-storage-capacity-in-a-warehouse-for-prime-and-non-prime-it) - sql query to maximize storage capacity in a warehouse for prime and non-prime
+- [Stack Overflow](https://stackoverflow.com/questions/33011523/how-to-use-multiple-columns-in-partition-by-and-ensure-no-duplicate-row-is-retur) - how to use multiple columns in partition by and ensure no duplicate row is retur
+- [Codeacademy](https://www.codecademy.com/resources/docs/sql/window-functions/lead) - lead
+- [Medium](https://nphchi223.medium.com/daily-think-sql-lead-and-lag-for-consecutive-problems-1e6e1c4ca31) - daily think sql lead and lag for consecutive problems
+- [Stack Overflow](https://stackoverflow.com/questions/5727882/check-if-two-selects-are-equivalent) - check if two selects are equivalent
+- [hightouch](https://hightouch.com/sql-dictionary/sql-interval) - sql interval
+- [cogniniti](https://www.coginiti.co/tutorials/intermediate/sql-date-formats/) - sql date formats
