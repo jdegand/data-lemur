@@ -2,5 +2,4 @@ SELECT manufacturer, COUNT(drug) AS drug_count, ABS(SUM(total_sales - cogs)) AS 
 FROM pharmacy_sales 
 WHERE total_sales <= cogs 
 GROUP BY manufacturer 
-ORDER BY total_loss DESC 
-LIMIT 3;
+ORDER BY total_loss DESC;
