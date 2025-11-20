@@ -1,5 +1,14 @@
-SELECT card_name, MAX(issued_amount) AS issued_amount 
-FROM monthly_cards_issued 
-WHERE issue_month = (SELECT MIN(issue_month) FROM monthly_cards_issued)
-GROUP BY card_name 
+WITH card_launch AS (
+SELECT 
+  card_name,
+  issued_amount,
+  MAKE_DATE(issue_year, issue_month, 1) AS issue_date,
+  MIN(MAKE_DATE(issue_year, issue_month, 1)) OVER (
+    PARTITION BY card_name) AS launch_date
+FROM monthly_cards_issued
+)
+
+SELECT card_name, issued_amount
+FROM card_launch
+WHERE issue_date = launch_date
 ORDER BY issued_amount DESC;
