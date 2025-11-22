@@ -5,10 +5,3 @@ FROM (
     GROUP BY company_id, title, description
     HAVING COUNT(job_id) > 1
 ) AS duplicated_listings;
-
-/*
-SELECT title, description, COUNT(*)
-FROM job_listings
-GROUP BY title, description
-HAVING COUNT(*) > 1;
-*/
