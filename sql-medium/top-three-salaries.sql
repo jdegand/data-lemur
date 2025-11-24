@@ -1,20 +1,17 @@
 WITH RankedEmployees AS (
     SELECT 
-        employee.name,
-        department.department_name,
-        employee.salary,
-        ROW_NUMBER() OVER (PARTITION BY department.department_name ORDER BY employee.salary DESC) AS rank
-    FROM employee
-    INNER JOIN department ON department.department_id = employee.department_id
+        e.name,
+        d.department_name,
+        e.salary,
+        DENSE_RANK() OVER (
+            PARTITION BY d.department_name 
+            ORDER BY e.salary DESC
+        ) AS emp_rank
+    FROM employee e
+    INNER JOIN department d 
+        ON d.department_id = e.department_id
 )
-SELECT name, department_name, salary
+SELECT department_name, name, salary
 FROM RankedEmployees
-WHERE rank <= 3;
-
-'''
-SELECT employee.name, department.department_name, employee.salary
-FROM employee 
-JOIN department 
-ON department.department_id = employee.department_id
-ORDER BY employee.salary DESC;
-'''
+WHERE emp_rank <= 3
+ORDER BY department_name ASC, salary DESC, name ASC;
