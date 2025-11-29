@@ -29,3 +29,17 @@ def max_subarray_sum(input):
 
     return max_sum
 '''
+
+'''
+def max_subarray_sum(input):
+  running_sum = 0
+  max_sum = 0
+  
+  for i in input:
+    if running_sum < 0:
+        running_sum = 0
+    running_sum += i
+    max_sum = max(max_sum, running_sum)
+
+  return max_sum
+'''
