@@ -1,5 +1,5 @@
 # not easy at all - complete lookup map could be made but it would be very tedious 
-def total_letters(N):
+def total_letters(n):
     units = [0,3,3,5,4,4,3,5,5,4]         # 0–9
     teens = [3,6,6,8,8,7,7,9,8,8]         # 10–19
     tens  = [0,0,6,6,5,5,5,7,6,6]         # 0–90 step 10 (index by 0–9)
@@ -34,12 +34,12 @@ def total_letters(N):
         return tens[t] + (units[u] if u > 0 else 0)
 
     total = 0
-    for i in range(1, N + 1):
+    for i in range(1, n + 1):
         total += length_of_number(i)
     return total
 
 """
-def total_letters(N):
+def total_letters(n):
     units = [0,3,3,5,4,4,3,5,5,4]
     teens = [3,6,6,8,8,7,7,9,8,8]
     tens  = [0,0,6,6,5,5,5,7,6,6]
@@ -50,5 +50,5 @@ def total_letters(N):
     def length(x):
         return 11 if x==1000 else (units[x//100]+7+(3+sub_100(x%100) if x%100 else 0) if x>=100 else sub_100(x))
 
-    return sum(length(i) for i in range(1, N+1))
+    return sum(length(i) for i in range(1, n+1))
 """
